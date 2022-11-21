@@ -1,5 +1,4 @@
-# <Your-Project-Title>
-
+# Prework Study Guide
 ## Description
 
 pre work stuff i ended up finishing 
@@ -19,4 +18,4 @@ N/A
 
 ## License
 
-MIT
+Please refer to the LICENSE in the repo.git 
